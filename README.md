@@ -1,4 +1,4 @@
-#✈️ AirFast - Airline Reservation System
+# ✈️ AirFast - Airline Reservation System #
 
 ## 📌 Project Overview
 
@@ -21,12 +21,9 @@ The seating structure is represented in a visual layout with rows (A–M) and se
 
 ## 🖼️ Plane Layout Preview
 
-> Below is a visual representation of the plane structure used in the system:
+**Below is a visual representation of the plane structure used in the system:**
 
 ![Plane Seat Layout](plane.png)
-
-*Ensure the image file `plane.png` is placed in your GitHub repository directory (e.g., `OOP-Project/plane.png`).*
-
 ---
 
 ## 🧰 Features
